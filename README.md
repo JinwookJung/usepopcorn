@@ -1,2 +1,2 @@
-To install node modules: `npm i`
+To install node modules: `npm i`<br />
 To run: `npm start`
